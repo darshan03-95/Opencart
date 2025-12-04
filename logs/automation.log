@@ -1,0 +1,41 @@
+01:26:55.598 [main] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+01:27:03.327 [main] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+01:27:07.547 [main] INFO  testCases.AccountLoginTest {36} ************** TC02 LoginTest End**************
+01:31:11.705 [main] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+01:31:15.078 [main] INFO  testCases.AccountLoginTest {36} ************** TC02 LoginTest End**************
+19:48:45.162 [main] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+19:48:50.541 [main] INFO  testCases.AccountLoginTest {36} ************** TC02 LoginTest End**************
+23:32:13.177 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+23:32:18.927 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ****** accountregistration page started******
+23:32:20.328 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ********sekect the checkbox****************
+23:32:25.581 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+23:39:58.198 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+23:40:01.204 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ****** accountregistration page started******
+23:40:01.941 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ********sekect the checkbox****************
+23:40:05.581 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+23:45:46.500 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+23:45:49.134 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ****** accountregistration page started******
+23:45:50.129 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ********sekect the checkbox****************
+23:45:52.994 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+23:46:06.446 [TestNG-tests-1] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+23:46:12.990 [TestNG-tests-1] INFO  testCases.AccountLoginTest {36} ************** TC02 LoginTest End**************
+23:50:05.423 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+23:50:07.211 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ****** accountregistration page started******
+23:50:08.109 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} ********sekect the checkbox****************
+23:50:11.404 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+23:50:33.927 [TestNG-tests-1] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+23:50:36.311 [TestNG-tests-2] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+16:23:34.540 [main] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+16:23:34.692 [main] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+16:28:39.500 [main] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+16:28:42.556 [main] INFO  testCases.AccountRegistrationTest {36} ****** accountregistration page started******
+16:28:43.659 [main] INFO  testCases.AccountRegistrationTest {36} ********sekect the checkbox****************
+16:28:46.582 [main] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+16:28:57.781 [main] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+16:29:01.471 [main] INFO  testCases.AccountLoginTest {36} ************** TC02 LoginTest End**************
+23:32:07.028 [main] INFO  testCases.AccountRegistrationTest {36} ***** starting AccountRegistrationTest ******
+23:32:09.473 [main] INFO  testCases.AccountRegistrationTest {36} ****** accountregistration page started******
+23:32:10.233 [main] INFO  testCases.AccountRegistrationTest {36} ********sekect the checkbox****************
+23:32:12.486 [main] INFO  testCases.AccountRegistrationTest {36} *********test finished***********
+23:32:24.050 [main] INFO  testCases.AccountLoginTest {36} ***********TC02LoginTeststarts**************
+23:32:27.493 [main] INFO  testCases.AccountLoginTest {36} ************** TC02 LoginTest End**************
